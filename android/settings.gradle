@@ -1,0 +1,3 @@
+rootProject.name = 'cswcalender1'
+
+include ':app'
