@@ -56,4 +56,6 @@ Push.setListener({
   }
 });
 
+const pushEnabled = await Push.isEnabled();
+
 export default details;
