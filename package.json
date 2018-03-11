@@ -10,6 +10,7 @@
     "appcenter": "^1.4.0",
     "appcenter-analytics": "^1.4.0",
     "appcenter-crashes": "^1.4.0",
+    "appcenter-push": "^1.4.0",
     "react": "16.3.0-alpha.1",
     "react-native": "0.54.0",
     "react-native-atoz-listview": "0.0.7",
