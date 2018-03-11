@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "135326141631",
+    "firebase_url": "https://cswcalendar1.firebaseio.com",
+    "project_id": "cswcalendar1",
+    "storage_bucket": "cswcalendar1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135326141631:android:9926c96afd922893",
+        "android_client_info": {
+          "package_name": "com.cswcalender1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135326141631-6mpl8s54juf0h76bbgf965218ags0b6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtSl3WgLFRlY6aaXk2aWMArR9MhqV5HMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
