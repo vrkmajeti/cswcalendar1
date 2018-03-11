@@ -55,3 +55,6 @@ buck-out/
 #Vijay
 package-lock.json
 
+
+.vs/slnx.sqlite
+.vs/slnx.sqlite-journal
